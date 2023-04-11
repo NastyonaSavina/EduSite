@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/EduSite/static/css/main.df09960d.css",
+    "main.css": "/EduSite/static/css/main.036f8c83.css",
     "main.js": "/EduSite/static/js/main.3144ea85.js",
     "static/css/107.0eb7fefd.chunk.css": "/EduSite/static/css/107.0eb7fefd.chunk.css",
     "static/js/107.725d5b73.chunk.js": "/EduSite/static/js/107.725d5b73.chunk.js",
@@ -15,7 +15,7 @@
     "static/media/hero-img-tablet.jpg": "/EduSite/static/media/hero-img-tablet.9397b819ecd4cd5c99fe.jpg",
     "static/media/hero-img-mob.jpg": "/EduSite/static/media/hero-img-mob.d84359f400fab1b9f9f5.jpg",
     "index.html": "/EduSite/index.html",
-    "main.df09960d.css.map": "/EduSite/static/css/main.df09960d.css.map",
+    "main.036f8c83.css.map": "/EduSite/static/css/main.036f8c83.css.map",
     "main.3144ea85.js.map": "/EduSite/static/js/main.3144ea85.js.map",
     "107.0eb7fefd.chunk.css.map": "/EduSite/static/css/107.0eb7fefd.chunk.css.map",
     "107.725d5b73.chunk.js.map": "/EduSite/static/js/107.725d5b73.chunk.js.map",
@@ -23,7 +23,7 @@
     "607.e04dab96.chunk.js.map": "/EduSite/static/js/607.e04dab96.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df09960d.css",
+    "static/css/main.036f8c83.css",
     "static/js/main.3144ea85.js"
   ]
 }
