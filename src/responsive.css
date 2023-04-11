@@ -3,6 +3,7 @@
     .container {
       margin: 0 auto;
       padding: 0px 16px;
+      width: 360px;
 
     }
     @media (min-device-pixel-ratio: 2),
@@ -40,11 +41,11 @@
       padding: 0px 194px;
     }
  
-     ul.users-list{
+     ul.courses-list{
       gap: 16px;
     }
 
-    li.user-item{
+    li.course-item{
       width: calc((100% - 16px)/2);
     }
     
@@ -87,11 +88,11 @@
         }
     }
 
-     ul.users-list{
+     ul.courses-list{
       gap: 29px;
     }
 
-    li.user-item{
+    li.course-item{
       width: calc((100% - 58px)/3);
     }
 

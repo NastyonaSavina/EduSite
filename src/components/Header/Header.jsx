@@ -16,10 +16,10 @@ export const Header = () => {
             <NavLink to="/courses" className="link nav-link">
               Courses
             </NavLink>
-            <NavLink to="/about" className="link nav-link">
+            <NavLink to="/" className="link nav-link">
               About Us
             </NavLink>
-            <NavLink to="/contacts" className="link nav-link">
+            <NavLink to="/" className="link nav-link">
               Contact Us
             </NavLink>
           </div>

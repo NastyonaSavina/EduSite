@@ -44,7 +44,7 @@
     height: 100%;
 
     fill: var(--main-color);
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: var(--second-color);
     transition: background-color 250ms var(--timing-function);
 }
 
