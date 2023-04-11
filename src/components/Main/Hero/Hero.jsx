@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import "./Hero.css";
 
 
@@ -13,9 +14,11 @@ export const Hero = () => {
             situations, their ability to make rational and informed decisions
             comes from how educated and self-aware they are.
           </p>
-          <button className="hero-btn" type="button">
+          <Link to="/courses">
+          <button className="hero-btn" type="button" >
             Explore Courses
           </button>
+          </Link>
         </div>
       </section>
     );
