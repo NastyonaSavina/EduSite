@@ -1,0 +1,28 @@
+
+
+
+.header-area{
+    display: flex;
+    gap: 17px;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 0;
+    height: 60px;
+}
+
+
+.btn-area{
+    display: flex;
+    gap: 10px;
+}
+
+.nav-link{
+    color: var(--main-color);
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.nav-link:hover,
+.nav-link:focus{
+    color: var(--second-color);
+}

@@ -1,0 +1,123 @@
+
+  @media only screen and (min-width: 360px) {
+    .container {
+      margin: 0 auto;
+      padding: 0px 16px;
+
+    }
+    @media (min-device-pixel-ratio: 2),
+      (min-resolution: 192dpi),
+      (min-resolution: 2dppx) {
+        section.hero {
+          background-image: url(../src/images/heroImages/hero-img-mob-2x.jpg);
+        }
+    }
+  
+  }
+ 
+  @media only screen and (min-width: 768px) {
+    .container {
+      width: 768px;
+      margin: 0 auto;
+      padding: 0px 32px;
+    }
+    
+    .nav-link{
+      font-size: 18px;
+    }
+    .header-area{
+      gap: 25px;
+    }
+
+    section.hero{
+      padding-top: 89px;
+      padding-bottom: 88px;
+      
+      background-image: url(../src/images/heroImages/hero-img-tablet.jpg);
+    }
+
+    .hero-area{
+      padding: 0px 194px;
+    }
+ 
+     ul.users-list{
+      gap: 16px;
+    }
+
+    li.user-item{
+      width: calc((100% - 16px)/2);
+    }
+    
+    @media (min-device-pixel-ratio: 2),
+      (min-resolution: 192dpi),
+      (min-resolution: 2dppx){
+        .hero{
+          background-image: url(../src/images/heroImages/hero-img-tablet-2x.jpg);
+        }
+      }
+    
+   
+  
+  }
+
+
+  @media only screen and (min-width: 1024px) {
+    .container {
+      width: 1024px;
+      padding: 0px 60px;
+    }
+  
+
+    .header-area{
+      gap: 30px;
+    }
+
+    section.hero{
+      padding-top: 164px;
+      padding-bottom: 163px;
+      background-image: url(../src/images/heroImages/hero-img-desk.jpg);
+    }
+
+    @media (min-device-pixel-ratio: 2),
+      (min-resolution: 192dpi),
+      (min-resolution: 2dppx) {
+        section.hero {
+          width: 1170px;
+          background-image: url(../src/images/heroImages/hero-img-desk-2x.jpg);
+        }
+    }
+
+     ul.users-list{
+      gap: 29px;
+    }
+
+    li.user-item{
+      width: calc((100% - 58px)/3);
+    }
+
+  }
+
+
+@media only screen and (min-width: 2560px) {
+  .container {
+    padding: 0px;
+    width: 1170px;
+  }
+
+  .hero-area{
+    width: 380px;
+  }
+
+  section.hero{
+    width: 1170px;
+    background-image: url(../src/images/heroImages/hero-img-2560.jpg);
+  }
+
+  @media (min-device-pixel-ratio: 2),
+    (min-resolution: 192dpi),
+    (min-resolution: 2dppx) {
+      .hero {
+        background-image: url(../src/images/heroImages/hero-img-2560-2x.jpg);
+      }
+    }
+}
