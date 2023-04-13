@@ -5,7 +5,7 @@
     "description": "This course will introduce you to some fundamental topics in Physics, including Forces and Energy.",
     "category": "Physics",
     "level": "Beginner",
-    "imageUrl":"https://pixabay.com/get/gff0b9a6a19712430c81bc688fa46728b247d95c42da9c7374ce17a0366cab2abb2279e8dc84e2b4e75b9e3504075fef35fb2de4ee7f8936fd194f211383ed5d7_640.jpg"
+    "imageUrl":""
   },
   {
     "id": "id-2",
@@ -13,7 +13,7 @@
     "description": "Catchy memory tricks and hundreds of practice questions",
     "category": "Physics",
     "level": "Intermediate",
-    "imageUrl":"https://pixabay.com/get/ge234971f2a8720847f4d6fc126a1c3d4731d7363e2f872237fd3d2918b0336ce4b64c854df8950e136b4a903c5758d9f1ce3b99e4f1b6dfd44f0056ac3f265fa_640.jpg"
+    "imageUrl":""
   },
   {
     "id": "id-3",
@@ -21,7 +21,7 @@
     "description": "Mathematical Intuition behind Relativistic Quantum Mechanics",
     "category": "Physics",
     "level": "Advanced",
-    "imageUrl": "https://pixabay.com/get/g20f06de7723661853e82d2600f10eb8ce733ca1c5b7d3b2b953e7e39ee01c12e32f2ed00a5789458ded465613792f3d57b519abcbdc67daa52c8fad9bcedc6cb_640.jpg"
+    "imageUrl": ""
   },
   {
     "id": "id-4",
@@ -29,7 +29,7 @@
     "description": "Master Pre-Algebra with 700 Practice Questions! Prepare for High School Math: Algebra, Geometry, Trigonometry",
     "category": "Mathematics",
     "level": "Beginner",
-    "imageUrl":"https://pixabay.com/get/g9eb75cb3a3571eb37141592cf896ec7b7bfa69fe5529ab6b3547379f626a2911d016a594ccab1ceb8f5315d326e3992191b4d04a5bc53e4d67332af02f95354f_640.jpg"
+    "imageUrl":""
   },
   {
     "id": "id-5",
@@ -37,7 +37,7 @@
     "description": "Master Algebra 1 with our Step by Step Video Tutorials and Practice with 1000 Practice Questions! Ace your Algebra Exam!",
     "category": "Mathematics",
     "level": "Intermediate",
-    "imageUrl":"https://pixabay.com/get/g2eaa19ad3d0669a50b113c3fc6de3fa6dc2634038301fce0f2a19f2e900a8874c9aad05aa6a385352d63921bff573fef242fa422a8c4c65c18c42ff252d1585e_640.jpg"
+    "imageUrl":""
   },
   {
     "id": "id-6",
@@ -45,7 +45,7 @@
     "description": "Master College Level Algebra with our Step by Step Video Tutorials. Over 4500 Practice Questions! Ace your Algebra Exam!",
     "category": "Mathematics",
     "level": "Advanced",
-    "imageUrl":"https://pixabay.com/get/gc4917d839a6d4f7a22428624a2bb6fe7080c8fab18bb2ea217cb7006c078fea1bc001b3db1c84cc19fd25563e3914bf0bbbb388dca12b0e636c4ca0da7344aa6_640.jpg"
+    "imageUrl":""
   },
   {
     "id": "id-7",
@@ -53,7 +53,7 @@
     "description": "Learn to write popular astrological forecasts competently and confidently",
     "category": "Astrology",
     "level": "Beginner",
-    "imageUrl":"https://pixabay.com/get/g432c456700b9df492d3ebf7c1d24f2c50bf304b23f0a5fd08638f685f9d916118c870c0c8170b24503e21bdd41488f1b_640.jpg"
+    "imageUrl":""
   },
   {
     "id": "id-8",
@@ -61,7 +61,7 @@
     "description": "Learn more astronomy for astrologers, planetary states and their relationships, and how to derive the natal chart “Backs",
     "category": "Astrology",
     "level": "Intermediate",
-    "imageUrl": "https://pixabay.com/get/g93ad5bb35f63e4e86ab655d88ae98f2b2a65baf56f26c3930b34e50567720263bd50876b049520a93f5f18ebb89dcc2b9f1a11445bc6bead8496fed0d9ef6e30_640.jpg"
+    "imageUrl": ""
   },
   {
     "id": "id-9",
@@ -69,7 +69,7 @@
     "description": "Learn how identify Graha Yogas",
     "category": "Astrology",
     "level": "Intermediate",
-    "imageUrl": "https://pixabay.com/get/g06e6739c32ab08aee23965853474785f17c8d4ab6977e30d9e2193e1a58aa631b29faf4a61232241c06c856a2d622b43581f0ca71801600965950c51cb2dd3cc_640.jpg"
+    "imageUrl": ""
   },
   {
     "id": "id-10",
@@ -77,6 +77,6 @@
     "description": "The Zodiac, Karma & Reincarnation",
     "category": "Astrology",
     "level": "Advanced",
-    "imageUrl": "https://pixabay.com/get/gbdc3f1fb78b17aa88a56ecf3c5f96f3d5d2b3e47786dbd0c042ce03966b96c84fd96141c3a9d0fd87ae756498b547b24f3c13dbcea339e2b247f4253a4d21900_640.jpg"
+    "imageUrl": ""
   }
 ]
