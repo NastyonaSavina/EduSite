@@ -6,4 +6,4 @@
  Course listing page  that displays a list of courses with filters for categories and difficulty levels. 
  
  
- Technology:React (Hooks, Routers)
+ Technology: React (Hooks, Routers), inline styled components without additional libraries
