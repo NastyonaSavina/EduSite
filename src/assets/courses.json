@@ -5,7 +5,7 @@
     "description": "This course will introduce you to some fundamental topics in Physics, including Forces and Energy.",
     "category": "Physics",
     "level": "Beginner",
-    "imageUrl":""
+    "imageUrl":"https://nastyonasavina.github.io/PublicImages/public/physics2.jpg"
   },
   {
     "id": "id-2",
@@ -13,7 +13,7 @@
     "description": "Catchy memory tricks and hundreds of practice questions",
     "category": "Physics",
     "level": "Intermediate",
-    "imageUrl":""
+    "imageUrl":"https://nastyonasavina.github.io/PublicImages/public/physics1.jpg"
   },
   {
     "id": "id-3",
@@ -21,7 +21,7 @@
     "description": "Mathematical Intuition behind Relativistic Quantum Mechanics",
     "category": "Physics",
     "level": "Advanced",
-    "imageUrl": ""
+    "imageUrl": "https://nastyonasavina.github.io/PublicImages/public/physics3.jpg"
   },
   {
     "id": "id-4",
@@ -29,7 +29,7 @@
     "description": "Master Pre-Algebra with 700 Practice Questions! Prepare for High School Math: Algebra, Geometry, Trigonometry",
     "category": "Mathematics",
     "level": "Beginner",
-    "imageUrl":""
+    "imageUrl":"https://nastyonasavina.github.io/PublicImages/public/math1.jpg"
   },
   {
     "id": "id-5",
@@ -37,7 +37,7 @@
     "description": "Master Algebra 1 with our Step by Step Video Tutorials and Practice with 1000 Practice Questions! Ace your Algebra Exam!",
     "category": "Mathematics",
     "level": "Intermediate",
-    "imageUrl":""
+    "imageUrl":"https://nastyonasavina.github.io/PublicImages/public/math2.jpg"
   },
   {
     "id": "id-6",
@@ -45,7 +45,7 @@
     "description": "Master College Level Algebra with our Step by Step Video Tutorials. Over 4500 Practice Questions! Ace your Algebra Exam!",
     "category": "Mathematics",
     "level": "Advanced",
-    "imageUrl":""
+    "imageUrl":"https://nastyonasavina.github.io/PublicImages/public/math3.jpg"
   },
   {
     "id": "id-7",
@@ -53,7 +53,7 @@
     "description": "Learn to write popular astrological forecasts competently and confidently",
     "category": "Astrology",
     "level": "Beginner",
-    "imageUrl":""
+    "imageUrl":"https://nastyonasavina.github.io/PublicImages/public/astrology1.jpg"
   },
   {
     "id": "id-8",
@@ -61,7 +61,7 @@
     "description": "Learn more astronomy for astrologers, planetary states and their relationships, and how to derive the natal chart “Backs",
     "category": "Astrology",
     "level": "Intermediate",
-    "imageUrl": ""
+    "imageUrl": "https://nastyonasavina.github.io/PublicImages/public/astrology2.jpg"
   },
   {
     "id": "id-9",
@@ -69,7 +69,7 @@
     "description": "Learn how identify Graha Yogas",
     "category": "Astrology",
     "level": "Intermediate",
-    "imageUrl": ""
+    "imageUrl": "https://nastyonasavina.github.io/PublicImages/public/astrology3.jpg"
   },
   {
     "id": "id-10",
@@ -77,6 +77,6 @@
     "description": "The Zodiac, Karma & Reincarnation",
     "category": "Astrology",
     "level": "Advanced",
-    "imageUrl": ""
+    "imageUrl": "https://nastyonasavina.github.io/PublicImages/public/astrology4.jpg"
   }
 ]
