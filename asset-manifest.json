@@ -1,30 +1,29 @@
 {
   "files": {
-    "main.css": "/EduSite/static/css/main.036f8c83.css",
-    "main.js": "/EduSite/static/js/main.f0420dc3.js",
-    "static/css/720.0fd32cad.chunk.css": "/EduSite/static/css/720.0fd32cad.chunk.css",
-    "static/js/720.c9d51c41.chunk.js": "/EduSite/static/js/720.c9d51c41.chunk.js",
+    "main.css": "/EduSite/static/css/main.c061fdc4.css",
+    "main.js": "/EduSite/static/js/main.cb2a9650.js",
+    "static/css/107.0eb7fefd.chunk.css": "/EduSite/static/css/107.0eb7fefd.chunk.css",
+    "static/js/107.b6503345.chunk.js": "/EduSite/static/js/107.b6503345.chunk.js",
     "static/css/607.44e0bea5.chunk.css": "/EduSite/static/css/607.44e0bea5.chunk.css",
     "static/js/607.fce1b87e.chunk.js": "/EduSite/static/js/607.fce1b87e.chunk.js",
     "static/media/hero-img-2560-2x.jpg": "/EduSite/static/media/hero-img-2560-2x.a68170d63d13d0ab99a9.jpg",
     "static/media/hero-img-desk-2x.jpg": "/EduSite/static/media/hero-img-desk-2x.8ca75da4f0b0bff9a760.jpg",
     "static/media/hero-img-tablet-2x.jpg": "/EduSite/static/media/hero-img-tablet-2x.a3f702d92370698303a0.jpg",
-    "static/media/physics2.png": "/EduSite/static/media/physics2.821a9109536d85252361.png",
     "static/media/hero-img-mob-2x.jpg": "/EduSite/static/media/hero-img-mob-2x.f47a0dd0561ae8693242.jpg",
     "static/media/hero-img-2560.jpg": "/EduSite/static/media/hero-img-2560.0c0361a90f12d97702bf.jpg",
     "static/media/hero-img-desk.jpg": "/EduSite/static/media/hero-img-desk.efd856c5ab35d3cf6e84.jpg",
     "static/media/hero-img-tablet.jpg": "/EduSite/static/media/hero-img-tablet.9397b819ecd4cd5c99fe.jpg",
     "static/media/hero-img-mob.jpg": "/EduSite/static/media/hero-img-mob.d84359f400fab1b9f9f5.jpg",
     "index.html": "/EduSite/index.html",
-    "main.036f8c83.css.map": "/EduSite/static/css/main.036f8c83.css.map",
-    "main.f0420dc3.js.map": "/EduSite/static/js/main.f0420dc3.js.map",
-    "720.0fd32cad.chunk.css.map": "/EduSite/static/css/720.0fd32cad.chunk.css.map",
-    "720.c9d51c41.chunk.js.map": "/EduSite/static/js/720.c9d51c41.chunk.js.map",
+    "main.c061fdc4.css.map": "/EduSite/static/css/main.c061fdc4.css.map",
+    "main.cb2a9650.js.map": "/EduSite/static/js/main.cb2a9650.js.map",
+    "107.0eb7fefd.chunk.css.map": "/EduSite/static/css/107.0eb7fefd.chunk.css.map",
+    "107.b6503345.chunk.js.map": "/EduSite/static/js/107.b6503345.chunk.js.map",
     "607.44e0bea5.chunk.css.map": "/EduSite/static/css/607.44e0bea5.chunk.css.map",
     "607.fce1b87e.chunk.js.map": "/EduSite/static/js/607.fce1b87e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.036f8c83.css",
-    "static/js/main.f0420dc3.js"
+    "static/css/main.c061fdc4.css",
+    "static/js/main.cb2a9650.js"
   ]
 }
